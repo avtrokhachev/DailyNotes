@@ -1,0 +1,2 @@
+Database is a python module, that is used to interact with db.
+It does not know about any business logic, only raw models and data should be used.
